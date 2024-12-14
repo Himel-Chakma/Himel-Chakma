@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himel chakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himel chakma" height="30" width="40" /></a>
-<a href="https://kaggle.com/himel chakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himel chakma" height="30" width="40" /></a>
-<a href="https://fb.com/himel chakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himel chakma" height="30" width="40" /></a>
-<a href="https://instagram.com/himel chakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himel chakma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/himel chakma 1904131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himel chakma 1904131" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himel-chakma-b621b9215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himel chakma" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/himelchakma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himel chakma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/himel.chakma.402396/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himel chakma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/himel_chakma99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himel chakma" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/1904131_Himel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himel chakma 1904131" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
